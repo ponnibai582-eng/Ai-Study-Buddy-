@@ -111,4 +111,4 @@ ai-studybuddy/
 
 In production, both cookies have `secure: true`.Demo video link : https://drive.google.com/drive/folders/1rvSbp_epBqSbJultmTezh6bCVNssSlpd
 
-Api testing link :  AI_Studybuddy_Execution_Demo.mkv
+Api testing link :  https://drive.google.com/file/d/1jY2n_1hUnNflzJjyOru-yLKfO0oSOZMO/view?usp=drivesdk
